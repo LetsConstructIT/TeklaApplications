@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SectionAligner", "Drawing\SectionAligner\SectionAligner.csproj", "{96BDB2F0-1356-4ADE-B026-4D0EACC2984F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Drawing", "Drawing", "{488D8E3B-B14D-4896-9E67-F329260554B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96BDB2F0-1356-4ADE-B026-4D0EACC2984F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96BDB2F0-1356-4ADE-B026-4D0EACC2984F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96BDB2F0-1356-4ADE-B026-4D0EACC2984F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96BDB2F0-1356-4ADE-B026-4D0EACC2984F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{96BDB2F0-1356-4ADE-B026-4D0EACC2984F} = {488D8E3B-B14D-4896-9E67-F329260554B2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6F51E20-9965-4EC9-86D7-692DE70E153A}
+	EndGlobalSection
+EndGlobal
